@@ -1,8 +1,4 @@
-# Tinder_android_app_clone
-
-▷ Create an android app like tinder
-
-▷ Full Video Tutorial Playlist here: https://www.youtube.com/playlist?list=PLxabZQCAe5fio9dm1Vd0peIY6HLfo5MCf
+#Shelper- Helping Senior Citizens
 
 ▷ Tools Used In this Project:
 - Android Studio;
@@ -10,9 +6,13 @@
     *Realtime database
     *Authentication
  - SwipeCards;
+-API-
+    *Google maps API
+    *Google Places API
 
 ▷ In this project we've done:<br />
 1 - SwipeCards Implementation;<br />
+2 - Google Map API implementation;<br/>
 
 ▷ If you have any question please ask, I'll try to answer to every question and even look at your code if that is necessary.
 
